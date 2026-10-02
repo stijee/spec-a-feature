@@ -949,7 +949,7 @@ The course admin shall be able to cancel the use case at any time prior to submi
 
 **Priority:** Medium
 **Frequency of Use:** Approximately 5 instructors, 1-2 usages per week during active weeks.
-**Business Rules:** BR-submission-status (what "has not submitted" means for each item), BR-reminder-policy (who may see the list, who is reminded, the daily limit, and failure handling), BR-section-scoped-access, BR-role-based-access, BR-team-assignment-required, BR-active-weeks, BR-evaluation-submission-window
+**Business Rules:** BR-submission-status (what "has not submitted" means for each item), BR-reminder-policy (who may see the list, who is reminded, the daily limit, and failure handling), BR-section-scoped-access, BR-role-based-access, BR-team-assignment-required, BR-student-lifecycle, BR-active-weeks, BR-evaluation-submission-window
 
 **Associated Information:**
 
