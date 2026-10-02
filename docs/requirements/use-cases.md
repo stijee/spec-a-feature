@@ -920,8 +920,8 @@ The course admin shall be able to cancel the use case at any time prior to submi
 
 **Extensions:**
 - **3a. The chosen week is not one of the course section's active weeks:**
-  - 3a1. The system informs the instructor that peer evaluations are not collected for that week (BR-active-weeks) and shows only the weekly-activity-report non-submitters, since a weekly activity report may be submitted regardless of the active-weeks window.
-  - 3a2. The use case continues at step 4 with the peer-evaluation column omitted.
+  - 3a1. The system informs the instructor that the week is not an active week, so no weekly activity report or peer evaluation is expected for it (BR-active-weeks, UC-SEC-setup-active-weeks), and lists no non-submitters.
+  - 3a2. The instructor either chooses another week (return to step 2) or terminates the use case.
 - **3b. No item's due time for the chosen week has passed yet:**
   - 3b1. The system informs the instructor that nothing is overdue for that week yet and shows the list with no non-submitters (BR-submission-status).
   - 3b2. The instructor either chooses another week (return to step 2) or terminates the use case.
